@@ -12,7 +12,8 @@
 
 ## Installation
 
-    1. Extract zip file
+    1. Clone the repository:
+        git clone <URL>
     2. Install dependencies:
         npm install
     3. Running the application
